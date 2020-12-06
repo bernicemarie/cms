@@ -1,0 +1,20 @@
+{
+    "name": "tamba/cms",
+    "require": {
+        "swiftmailer/swiftmailer": "^5.4",
+        "phpmailer/phpmailer": "^6.1"
+    },
+    "require-dev": {
+    },
+    "autoload":{
+      "classmap":[
+     "classes"
+      ]
+    },
+    "authors": [
+        {
+            "name": "Benjamin Marie Kamano",
+            "email": "kamanobenjamin@gmail.com"
+        }
+    ]
+}
