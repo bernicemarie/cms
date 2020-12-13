@@ -1,7 +1,0 @@
-cmd en mode Administrateur	
-se placer dans la clé
-
-
-
-
-attrib *.* -S -A -R -H /S /D
